@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "menglingzong" => "menglingzong@zillionfortune.com" }
   s.source       = { :git => "https://github.com/menglzong/EnochCategory.git", :tag => s.version}
-  s.source_files  = "EnochCategory／*.{swift}"
+  s.source_files  = "EnochCategory/*"
   s.platform     = :ios, "8.0"
   s.frameworks = 'Foundation', 'UIKit' 
 end
