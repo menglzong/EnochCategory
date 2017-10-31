@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "EnochCategory"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "扩展组件"
   s.description  = "UIImage，NSMutableAttributedString扩展组件"
   s.homepage     = "https://github.com/menglzong/EnochCategory"
